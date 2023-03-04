@@ -1,9 +1,9 @@
 > # UDG - CUCEI 
 > #### 08 de Marzo de 2023
-### <p align="left"> Anthony Esteven Sandoval Marquez, 215660767</p>
-### <p align="center"> Materia: Computacion Tolerante a Fallas </p>
-### <p align="center"> Profesor: Michel Emanuel López Franco </p>
-### <p align="center"> Ciclo: 2023-A </p>
+### <p align="center"> Anthony Esteven Sandoval Marquez, 215660767</p>
+#### <p align="center"> Materia: Computacion Tolerante a Fallas </p>
+#### <p align="center"> Profesor: Michel Emanuel López Franco </p>
+#### <p align="center"> Ciclo: 2023-A </p>
 
 > ## An Introduction to Scaling Distributed Python Applications
 
