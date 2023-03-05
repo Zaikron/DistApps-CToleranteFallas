@@ -1,5 +1,5 @@
 > # UDG - CUCEI 
-> #### 08 de Marzo de 2023
+> #### 06 de Marzo de 2023
 ### <p align="center"> Anthony Esteven Sandoval Marquez, 215660767</p>
 #### <p align="center"> Materia: Computacion Tolerante a Fallas </p>
 #### <p align="center"> Profesor: Michel Emanuel López Franco </p>
